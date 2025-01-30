@@ -17,10 +17,3 @@ This repository contains a machine learning-based web application to predict whe
 ## Project Overview
 
 The project aims to predict the likelihood of a candidate being recruited based on various factors like test scores, interview performance, and past academic achievements. The machine learning model is trained using the dataset `train.csv`, and predictions are made using a Flask web application.
-
-## Installation
-
-### Step 1: Clone the repository
-```bash
-git clone https://github.com/yourusername/campus-recruitment-prediction.git
-cd campus-recruitment-prediction
